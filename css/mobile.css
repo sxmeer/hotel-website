@@ -1,0 +1,70 @@
+#navbar #logo {
+    margin-top: 10px;
+    float: none;
+    text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+    float: none;
+    border: #444 2px dotted;
+}
+
+.info-img {
+    display: none;
+}
+
+.info {
+    height: 550px;
+    overflow: hidden;
+}
+
+#showcase a {
+    margin-top: 20px;
+}
+
+.info-data {
+    padding: 50px 30px;
+    text-align: center;
+    width: 100%;
+    float: none;
+}
+
+.box {
+    width: 100%;
+    float: none;
+    padding: 50px;
+    text-align: center;
+}
+
+.about-info-img {
+    display: none;
+}
+
+.about-info-data {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+
+.test-desc {
+    width: 100%;
+    float: none;
+    margin-top: 10px;
+}
+
+.test-img {
+    width: 100px;
+    float: none;
+    margin-top: 20px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.contact-info .box {
+    border-bottom: #444 1px solid;
+}
+
+.contact-info .box:last-child {
+    border-bottom: none;
+}
